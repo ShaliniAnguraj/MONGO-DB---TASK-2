@@ -3,8 +3,8 @@
 db.users.insertMany([
   {
     UserId: 1,
-    name: "shalini",
-    EmailId: "shal@gmail.com",
+    name: "Taehyung",
+    EmailId: "taehyung@gmail.com",
     MentorId: 2,
   },
   {
@@ -21,8 +21,8 @@ db.users.insertMany([
   },
   {
     UserId: 4,
-    name: "dhanish",
-    EmailId: "dhani@gmail.com",
+    name: "ibrahim",
+    EmailId: "ibu@gmail.com",
     MentorId: 1,
   },
   {
@@ -231,8 +231,8 @@ db.companydrives.insertMany([
 db.mentors.insertMany([
   {
     MentorId: 1,
-    mentorName: "Taehyung",
-    mentorEmail: "taehyung@gmail.com",
+    mentorName: "dhanish",
+    mentorEmail: "dhani@gmail.com",
   },
   {
     MentorId: 2,
